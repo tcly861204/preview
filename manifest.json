@@ -1,0 +1,42 @@
+{
+  "index.html": {
+    "file": "assets/index.adf465e0.js",
+    "src": "index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "src/pages/home/index.jsx",
+      "src/pages/about/index.jsx",
+      "src/pages/join/index.jsx"
+    ],
+    "css": [
+      "assets/index.19567689.css"
+    ]
+  },
+  "src/pages/home/index.jsx": {
+    "file": "assets/index.c20c4795.js",
+    "src": "src/pages/home/index.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ],
+    "css": [
+      "assets/index.c5dcc180.css"
+    ]
+  },
+  "src/pages/about/index.jsx": {
+    "file": "assets/index.fd3e9163.js",
+    "src": "src/pages/about/index.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ]
+  },
+  "src/pages/join/index.jsx": {
+    "file": "assets/index.82ea69a3.js",
+    "src": "src/pages/join/index.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ]
+  }
+}
